@@ -331,12 +331,6 @@
                 <groupId>com.ibm.jsonata4java</groupId>
                 <artifactId>JSONata4Java</artifactId>
                 <version>2.2.9</version>
-                <exclusions>
-                    <exclusion>
-                        <groupId>org.codehaus.woodstox</groupId>
-                        <artifactId>stax2-api</artifactId>
-                    </exclusion>
-                </exclusions>
             </dependency>
 
             <dependency>
